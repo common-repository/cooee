@@ -1,0 +1,4 @@
+*** WooCommerce Extension Template Changelog ***
+
+2022-05-18 - version 0.0.1
+* Initial release
